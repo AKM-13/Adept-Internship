@@ -1,10 +1,10 @@
 # Adept-Internship
 
-Name: Ali kamal 
+**Name**: _Ali kamal Mustafa_
 
-Institude : SZABIST University
+**Institude** : _SZABIST University_
 
-Self-description :
+**Self-description** :
 Hi, I'm Ali Kamal, an AI engineering student with a knack for problem-solving and a passion for innovative technology.
 
 I am currently pursuing a Bachelor's degree in Artificial Intelligence at SZABIST University, Islamabad, and have just completed my 4th semester. Presently, I am gaining practical experience through an internship at "Adept Internship" company located at NUST University.
@@ -17,7 +17,7 @@ I aspire to leverage my skills to build innovative solutions that can make a sig
 
 As an intern, I am eager to apply my knowledge and skills to real-world projects and further my understanding of AI. I am excited about the opportunity to contribute to innovative solutions and collaborate with industry professionals. Let's connect and explore the possibilities together!
 
-Motivation for internship: 
+**Motivation for internship**: 
 I am deeply passionate about artificial intelligence and its potential to revolutionize industries and improve lives. My academic journey and hands-on projects have equipped me with a solid foundation in AI principles and programming skills, but I believe real-world experience is crucial to mastering this field.
 
 The internship at "Adept Internship" company at NUST University offers the perfect opportunity to apply my knowledge, gain industry insights, and learn from seasoned professionals. I am eager to contribute to projects, collaborate with a dynamic team, and tackle challenging problems.
